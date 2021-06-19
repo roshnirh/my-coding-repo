@@ -1,0 +1,14 @@
+2021-06-06 20:49:35,850  INFO [main] BaseClass:18 - URL is opened
+2021-06-06 20:53:25,190  INFO [main] BaseClass:18 - URL is opened
+2021-06-06 20:54:20,646  INFO [main] BaseClass:18 - URL is opened
+2021-06-07 11:53:43,233  INFO [main] Login_TC:18 - URL is opened
+2021-06-07 16:03:31,295  INFO [main] Login_TC:18 - URL is opened
+2021-06-07 16:46:58,993  INFO [main] Login_TC:16 - URL is opened
+2021-06-08 20:32:22,803  INFO [main] Login_TC:16 - URL is opened
+2021-06-08 20:32:24,326  INFO [main] Login_TC:18 - Email is entered
+2021-06-08 20:32:28,461  INFO [main] Login_TC:21 - Continue button is clicked
+2021-06-08 20:33:43,117  INFO [main] Login_TC:16 - URL is opened
+2021-06-08 20:33:43,667  INFO [main] Login_TC:18 - Email is entered
+2021-06-08 20:33:48,835  INFO [main] Login_TC:21 - Continue button is clicked
+2021-06-08 20:47:00,640  INFO [main] Login_TC:16 - URL is opened
+2021-06-08 20:47:00,994  INFO [main] Login_TC:18 - Email is entered
