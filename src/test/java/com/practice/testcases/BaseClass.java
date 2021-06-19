@@ -46,6 +46,7 @@ public class BaseClass {
 	
 	@AfterClass
 	public void tierDown() { 
+		logger.info("Closing the browser");
 		driver.quit();
 	}
 
